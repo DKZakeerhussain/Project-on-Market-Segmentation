@@ -5,7 +5,8 @@ Unspuervised MachineLearning
 Objective - A case requires to develop a customer segmentation to give recommendations like saving plans, loans, wealth management, etc. on target customers groups.
 
 Toolkits - Python , jupyter Notebook , Streamlit - For deployment of the model
-Algorithms - Kmeans
+
+Algorithms - Kmeans,DecisionTree Classifier
 
 PROJECT PROCESS
 1.Research and Business Understanding
