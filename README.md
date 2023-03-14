@@ -1,6 +1,7 @@
 Market Customer Segmentation using KMeans 
 
 Unspuervised MachineLearning
+
 Toolkits - Python , jupyter Notebook , Streamlit - For deployment of the model
 Algorithms - Kmeans
 
